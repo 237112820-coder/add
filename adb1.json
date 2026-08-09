@@ -2569,19 +2569,6 @@
             "searchable": 0
         }
     ],
-"lives": [ {
-"name": "电信绵阳TV",
-"type": 0,
-"url": "https://raw.giteeusercontent.com/chenjianbaii/iptv/raw/master/mydx.m3u",
-"ua": "okhttp"
- },
- {
-"name": "自制直播TV",
-"type": 0,
-"url": "https://raw.giteeusercontent.com/chenjianbaii/iptv/raw/master/mydx.m3u",
-"ua": "okhttp"
-}
- ]
     "parses": [
         {
             "name": "盘古",
