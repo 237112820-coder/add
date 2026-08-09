@@ -9,7 +9,10 @@
             "name": "🦋豆瓣•主页（纯净）｜Tg：@huliys9",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js",
+            "searchable": 0,,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js",
             "searchable": 0,
+            "quickSearch": 0,
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0
@@ -2579,7 +2582,7 @@
             "url": "https://raw.giteeusercontent.com/chenjianbaii/iptv/raw/master/mydx.m3u",
             "ua": "okhttp/5.3.2"
         }
-    ],
+    ]
     "parses": [
         {
             "name": "盘古",
