@@ -3721,7 +3721,18 @@
             "category": "福利"
         }
     ],
-    "lives": [ {"name": "电信绵阳TV","type": 0, "url": "https://raw.giteeusercontent.com/chenjianbaii/iptv/raw/master/mydx.m3u","ua": "okhttp/5.3.2" }, {"name": "自制直播TV","type": 0,"url": "https://raw.giteeusercontent.com/chenjianbaii/iptv/raw/master/mydx.m3u","ua": "okhttp" },
+    "lives": [ 
+        {
+            "name": "电信绵阳TV","type": 0, 
+            "url": "https://raw.giteeusercontent.com/chenjianbaii/iptv/raw/master/mydx.m3u",
+            "ua": "okhttp/5.3.2" 
+        },
+        {
+            "name": "自制直播TV",
+            "type": 0,
+            "url": "https://raw.giteeusercontent.com/chenjianbaii/iptv/raw/master/mydx.m3u",
+            "ua": "okhttp" 
+        },
         {
             "name": "🦋 老杨TV｜Tg：@huliys9",
             "type": 0,
